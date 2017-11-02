@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://kramera3.github.io/project/invasives/</loc>
+      <loc>https://kramera3.github.io/project/invasive-species/</loc>
       <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://kramera3.github.io/project/zoop-communities/</loc>
+      <loc>https://kramera3.github.io/project/zooplankton-communities/</loc>
       <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -385,6 +385,16 @@
     
     <url>
     
+      <loc>https://kramera3.github.io/tags/allee-effects/</loc>
+      <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kramera3.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -396,6 +406,16 @@
     
       <loc>https://kramera3.github.io/tags/disease-spread/</loc>
       <lastmod>2017-10-31T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kramera3.github.io/tags/disease-spread/</loc>
+      <lastmod>2017-10-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -416,6 +436,16 @@
     
       <loc>https://kramera3.github.io/tags/invasive-species/</loc>
       <lastmod>2017-10-31T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kramera3.github.io/tags/invasive-species/</loc>
+      <lastmod>2017-10-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -486,6 +516,16 @@
     
       <loc>https://kramera3.github.io/tags/zooplankton/</loc>
       <lastmod>2017-10-31T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kramera3.github.io/tags/zooplankton-communities/</loc>
+      <lastmod>2017-10-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
