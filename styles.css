@@ -735,6 +735,56 @@ article {
 }
 
 /*************************************************
+ *  People
+ **************************************************/
+
+#people.home-section li {
+  margin-bottom: 1rem;
+}
+
+#people.home-section li:last-of-type {
+  margin-bottom: 0;
+}
+
+#people.home-section .people-title {
+  margin-bottom: 6px;
+}
+
+#people.home-section .people-summary {
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+}
+
+#people.home-section .people-tags {
+  font-size: 0.75rem;
+  color: #9c9c9c;
+}
+
+.people-container {
+  display: block;
+  position: relative;
+  /*margin-top: 5rem;*/
+  overflow: hidden;
+}
+
+.people-toolbar{
+  margin-bottom: 2rem;
+}
+
+.people-item {
+  margin-bottom: 1.5rem;
+}
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-item:hover{
+  z-index: 3;
+}
+
+
+/*************************************************
  *  Card component
  **************************************************/
 

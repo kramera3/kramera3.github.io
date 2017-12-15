@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://kramera3.github.io/project/neinavaie/</loc>
+      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kramera3.github.io/post/allee-effects-special-feature/</loc>
       <lastmod>2017-12-13T00:00:00-05:00</lastmod>
     </url>
@@ -413,6 +422,16 @@
     
     <url>
     
+      <loc>https://kramera3.github.io/tags/current/</loc>
+      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kramera3.github.io/tags/disease-spread/</loc>
       <lastmod>2017-10-31T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -473,8 +492,28 @@
     
     <url>
     
-      <loc>https://kramera3.github.io/project/</loc>
+      <loc>https://kramera3.github.io/tags/person/</loc>
+      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kramera3.github.io/tags/project/</loc>
       <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kramera3.github.io/project/</loc>
+      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
