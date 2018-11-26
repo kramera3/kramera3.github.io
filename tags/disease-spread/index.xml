@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disease-spread on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/tags/disease-spread/</link>
+    <description>Recent content in Disease-spread on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/tags/disease-spread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Macroscale spread of disease</title>
+      <link>https://kramera3.github.io/project/disease-spread/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/disease-spread/</guid>
+      <description>Part of my computational research examines methods for modeling spread on networks. This work focuses on the past and future spread of white-nose syndrome, a devastating disease of bats, in North America. By modeling the epidemic on a network, we have shown that the risk of spread between counties depends on a combination of distance, cave density and climate (Maher et al. 2012). These results have contributed to management decisions for affected species, and generated valuable insights about how the spatial spread of Ebola virus in West Africa can be predicted by evaluating alternative epidemic paths.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zooplankton Coexistence on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/tags/zooplankton-coexistence/</link>
+    <description>Recent content in Zooplankton Coexistence on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Fri, 06 Apr 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/tags/zooplankton-coexistence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zooplankton Diversity Project website</title>
+      <link>https://kramera3.github.io/post/zooplankton-biodiversity-website/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/zooplankton-biodiversity-website/</guid>
+      <description>I have contributed substantially to the development of this website (http://zooplankton.ecology.uga.edu) from the Drake Laboratory of Population Dynamics at the University of Georgia that provides interested researchers and educators with access to our publicly available dataset. The variety and abundance of data is communicated via interactive visualizations custom developed in Javascript. It includes 17,596 lines of open data on 485,047 zooplankton specimens representing 133 taxa collected from Carolina Bays of the Savannah River Site.</description>
+    </item>
+    
+  </channel>
+</rss>

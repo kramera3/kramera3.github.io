@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recruiting on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/tags/recruiting/</link>
+    <description>Recent content in Recruiting on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Mon, 06 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/tags/recruiting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graduate student opening (Ph.D./M.S.) - Population and Community Ecology</title>
+      <link>https://kramera3.github.io/post/recruiting2018/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/recruiting2018/</guid>
+      <description>The Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking motivated graduate students (Ph.D. or M.S.) to study the dynamics of extinction, species invasions, and/or species coexistence. The lab uses a combination of laboratory and field experiments, quantitative models, and computational analysis of big datasets to address basic and applied questions about population dynamics and persistence. Potential study systems range from zooplankton to microbes to emerging wildlife diseases.</description>
+    </item>
+    
+    <item>
+      <title>Graduate student opening (Ph.D./M.S.) - Spatial ecology of invasive species</title>
+      <link>https://kramera3.github.io/post/recruiting2nd2018/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/recruiting2nd2018/</guid>
+      <description>The Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking a graduate student to study the spatial dynamics of invasive species using computational approaches, including machine learning and species distribution models. Research in the lab includes the population ecology of invasion, extinction and species coexistence. This project will build on previous work on forecasting potential invaders and patterns of spatial spread. Applicants interested in species distribution models, spatial dynamics, or aquatic invasive species are particularly encouraged to apply.</description>
+    </item>
+    
+  </channel>
+</rss>

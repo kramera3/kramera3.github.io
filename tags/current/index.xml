@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/tags/current/</link>
+    <description>Recent content in Current on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Austin Smith</title>
+      <link>https://kramera3.github.io/project/austin/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/austin/</guid>
+      <description>Austin Joined the lab in November 2018
+Austin completed both his B.A. (mathematics, 2013) and M.S. (interdisciplinary ecology, 2018) at the University of Florida. His research interests include implementing mathematical/statistical techniques to ecological data in order to understand species invasions, niche structure/ habitat suitability, and population dynamics. Austin&amp;rsquo;s previous research efforts involved model optimization techniques, utilizing machine learning algorithms for defining habitat quality of introduced game birds, and analyzing the effects of propagule size on release attempts.</description>
+    </item>
+    
+    <item>
+      <title>Alexander Mercier</title>
+      <link>https://kramera3.github.io/project/alex/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/alex/</guid>
+      <description>Alexander joined the lab in August 2018.
+Alexander Mercier is an undergraduate student at University of South Florida dual majoring in pure mathematics and microbiology, with a minor in Russian. His interests include disease ecology and its relation to epidemiology.</description>
+    </item>
+    
+    <item>
+      <title>Lindsey Mixer</title>
+      <link>https://kramera3.github.io/project/lindsey/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/lindsey/</guid>
+      <description>Lindsey joined the lab in June 2018.
+I completed my undergraduate degree in biology at Loyola University New Orleans. I am interested in population ecology and dynamics, aquatic ecology, invertebrates, and coding for data analysis.</description>
+    </item>
+    
+    <item>
+      <title>Travis Flock</title>
+      <link>https://kramera3.github.io/project/travis/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/travis/</guid>
+      <description>Travis joined the lab in 2018.
+I am mostly interested in reviewing and synthesizing published literature to conduct meta-analyses and database-driven research. My current Master&amp;rsquo;s thesis is using a meta-analysis to examine the costs of trait-mediated interactions and indirect effects relative to the density-mediated/consumptive effects of consumer-resource dynamics. Past research efforts that I have been involved in include, investigating the effects of octopamine in modulating defensive, antipredator behavior in scorpions, and using a database approach to investigate whether glucocorticoids in adult, wildlife populations were predictive of IUCN-labeled conservation status.</description>
+    </item>
+    
+    <item>
+      <title>Fargam Neinavaie</title>
+      <link>https://kramera3.github.io/project/neinavaie/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/neinavaie/</guid>
+      <description>Fargam joined the lab in 2018 and is developing a project on forecasting invasive species.</description>
+    </item>
+    
+  </channel>
+</rss>

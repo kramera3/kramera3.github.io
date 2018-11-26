@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allee-effects on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/tags/allee-effects/</link>
+    <description>Recent content in Allee-effects on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/tags/allee-effects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Allee effects</title>
+      <link>https://kramera3.github.io/project/allee-effects/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/allee-effects/</guid>
+      <description>Low density populations can be subject to Allee effects, also known as positive density dependence, which result in reduced population growth rate and increased risk of extinction in small populations. These dynamics are crucial to the success of invasive species, management of harvested populations and conservation of threatened and endangered species. My research focuses on understanding the mechanisms and consequences of positive density dependence, which is important in aquatic species from sea urchins to salmon to copepods.</description>
+    </item>
+    
+  </channel>
+</rss>
