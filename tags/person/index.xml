@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
-    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kramera3.github.io/tags/person/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Eva Muir</title>
+      <link>https://kramera3.github.io/project/eva/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/eva/</guid>
+      <description>Eva joined the lab in August 2019. Eva’s background is in animal behavior and wildlife conservation, where she has previously worked on ecological and behavioral research projects in Russia, Madagascar, China, Slovakia, South Africa and Costa Rica. Her research interests are very broad, but she is mostly interested in the population ecology of small or threatened populations. In particular, she is fascinated by populations which exhibit positive density dependence and the evolutionary biology of these organisms.</description>
+    </item>
+    
+    <item>
+      <title>Grace Henderson</title>
+      <link>https://kramera3.github.io/project/grace/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/grace/</guid>
+      <description>Grace joined the lab in August 2019. Grace completed her BS (conservation biology, 2018) at Central Michigan University. During that time, she spent two years working for a native freshwater mussel lab. Her current research involves applying machine learning algorithms to species distribution modeling of the invasive Dreissenid mussels in the Laurentian Great Lakes.</description>
+    </item>
+    
+    <item>
+      <title>Shea Volkel</title>
+      <link>https://kramera3.github.io/project/shea/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/shea/</guid>
+      <description>Shea joined the lab in August 2019. Shea completed her undergraduate degree in marine biology at the University of North Carolina at Wilmington and her Masters degree in fisheries at Michigan State University. She is interested in fisheries research in large aquatic systems related to invasive species, species interactions, population dynamics, and spatial ecology.</description>
+    </item>
     
     <item>
       <title>Austin Smith</title>
@@ -39,7 +66,7 @@ Alexander Mercier is an undergraduate student at University of South Florida dua
       
       <guid>https://kramera3.github.io/project/lindsey/</guid>
       <description>Lindsey joined the lab in June 2018.
-I completed my undergraduate degree in biology at Loyola University New Orleans. I am interested in population ecology and dynamics, aquatic ecology, invertebrates, and coding for data analysis.</description>
+Lindsey is from Berkeley, California and completed her undergraduate degree in biology at Loyola University New Orleans. She joined Dr. Kramer’s quantitative ecology lab as the lab technician/manager. She began her Masters in August 2019 in the Kramer lab where she does research on native vs. invasive species dynamics within freshwater zooplankton communities. Research wise, she is interested in population ecology and dynamics, aquatic ecology, invertebrates, and coding for data analysis.</description>
     </item>
     
     <item>
@@ -48,8 +75,7 @@ I completed my undergraduate degree in biology at Loyola University New Orleans.
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://kramera3.github.io/project/travis/</guid>
-      <description>Travis joined the lab in 2018.
-I am mostly interested in reviewing and synthesizing published literature to conduct meta-analyses and database-driven research. My current Master&amp;rsquo;s thesis is using a meta-analysis to examine the costs of trait-mediated interactions and indirect effects relative to the density-mediated/consumptive effects of consumer-resource dynamics. Past research efforts that I have been involved in include, investigating the effects of octopamine in modulating defensive, antipredator behavior in scorpions, and using a database approach to investigate whether glucocorticoids in adult, wildlife populations were predictive of IUCN-labeled conservation status.</description>
+      <description>Travis graduated with his Masters degree in June 2019. The title of his thesis is Density-Mediated Interactions are Stronger but More Variable Than Trait-Mediated Interactions Within Predator-Prey Systems. After graduation, Travis was hired by the Indiana Department of Environmental Management as an environmental manager in the Office of Air Quality.</description>
     </item>
     
     <item>
@@ -58,7 +84,7 @@ I am mostly interested in reviewing and synthesizing published literature to con
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://kramera3.github.io/project/neinavaie/</guid>
-      <description>Fargam joined the lab in 2018 and is developing a project on forecasting invasive species.</description>
+      <description>Fargam joined the lab in May 2018. She is developing a project on forecasting invasive species.</description>
     </item>
     
   </channel>
