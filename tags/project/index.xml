@@ -22,12 +22,12 @@
     </item>
     
     <item>
-      <title>Aquatic invasive species</title>
+      <title>Invasive species ecology</title>
       <link>https://kramera3.github.io/project/invasive-species/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://kramera3.github.io/project/invasive-species/</guid>
-      <description>A current focus of my research is forecasting the potential distributions of invasive species in the Great Lakes. These species included current invaders like Eurasian ruffe and potential future invaders such as the golden mussel, (Limnoperna fortunei) and killer shrimp (Dikerogammarus villosus). I am using a combination of parametric and non-parametric models, including application of novel machine learning approaches. In addition to commonly considered climatic predictors the forecasts integrate extensive spatial data on Great Lakes habitat.</description>
+      <description>A current focus of my research is forecasting the potential distributions of invasive species, including dreissenid mussels and lionfish. I am using a combination of parametric and non-parametric models, including application of novel machine learning approaches. In addition to commonly considered climatic predictors I am working on applications of deep learning that use time series of climate data directly. I am also currently working with the Invacost project to better understand the economic costs of non-native species.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://kramera3.github.io/project/disease-spread/</guid>
-      <description>Part of my computational research examines methods for modeling spread on networks. This work focuses on the past and future spread of white-nose syndrome, a devastating disease of bats, in North America. By modeling the epidemic on a network, we have shown that the risk of spread between counties depends on a combination of distance, cave density and climate (Maher et al. 2012). These results have contributed to management decisions for affected species, and generated valuable insights about how the spatial spread of Ebola virus in West Africa can be predicted by evaluating alternative epidemic paths.</description>
+      <description>Part of my computational research examines methods for modeling spread on networks. This work applies to several pathogens, including white-nose syndrome in bats, Ebola in central and west Africa, and SARS-Cov2. By modeling the epidemics on a network, we can better capture the pattern of spread, identify key factors influencing that pattern, and produce effective forecasts. My current work addresses two important problems: simplifying the complex networks that often result from these models and coupling processes at the local scale to macro-scale spread on the network.</description>
     </item>
     
     <item>
@@ -45,8 +45,7 @@
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://kramera3.github.io/project/zooplankton-communities/</guid>
-      <description>There is much room for improving understanding of the contribution of interspecific interactions, such as competition and predation, to extinction risk. I am continuing work in Sierra Nevada zooplankton populations, with a proposed project to examine how rapid changes in phenotype mediate coexistence between competitors. I am also working to explain why temporary wetlands at the Savannah River Ecology Laboratory are able to support a hyper-diverse zooplankton community.
-The work at the Savannah River Ecology lab includes analysis of community structure in an existing medium-term dataset on zooplankton communities.</description>
+      <description>There is much room for improving understanding of the contribution of interspecific interactions, such as competition and predation, to extinction risk. I am looking at the interactions of local native and non-native cladocerans, as well as zooplankton community recovery following removal of non-native fish in Sierra Nevada lakes. I am also working to explain why temporary wetlands at the Savannah River Ecology Laboratory are able to support a hyper-diverse zooplankton community.</description>
     </item>
     
   </channel>

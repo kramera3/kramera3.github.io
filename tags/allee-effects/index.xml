@@ -1,42 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Allee effects on Kramer Ecology Lab</title>
+    <title>Allee-effects on Kramer Ecology Lab</title>
     <link>https://kramera3.github.io/tags/allee-effects/</link>
-    <description>Recent content in Allee effects on Kramer Ecology Lab</description>
+    <description>Recent content in Allee-effects on Kramer Ecology Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
-    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kramera3.github.io/tags/allee-effects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Allee effects Special Feature at Journal of Animal Ecology</title>
-      <link>https://kramera3.github.io/post/allee-effects-special-feature/</link>
-      <pubDate>Wed, 13 Dec 2017 00:00:00 -0500</pubDate>
+      <title>Allee effects</title>
+      <link>https://kramera3.github.io/project/allee-effects/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kramera3.github.io/post/allee-effects-special-feature/</guid>
-      <description>See the editorial (Kramer, Berec and Drake 2018, http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12777/fullScience) and the full issue (http://besjournals.onlinelibrary.wiley.com/hub/issue/10.1111/jane.2018.87.issue-1/)</description>
-    </item>
-    
-    <item>
-      <title>New article featured at Journal of Animal Ecology</title>
-      <link>https://kramera3.github.io/post/allee-effects-evolution-in-focus/</link>
-      <pubDate>Wed, 13 Dec 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://kramera3.github.io/post/allee-effects-evolution-in-focus/</guid>
-      <description>Journal of Animal Ecology has published a commentary (Kuparinen 2018 http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12774/full), on our article, Density-dependent selection on mate search and evolution of Allee effects (Berec, Kramer and Drake 2018, http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12662/full).</description>
-    </item>
-    
-    <item>
-      <title>Recruiting students in population and community ecology</title>
-      <link>https://kramera3.github.io/post/recruiting2017/</link>
-      <pubDate>Tue, 31 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://kramera3.github.io/post/recruiting2017/</guid>
-      <description>Graduate student openings (Ph.D./M.S.) in Population and Community Ecology The Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking motivated graduate students (Ph.D. or M.S.) to study the dynamics of extinction, species invasions, and/or species coexistence. The lab uses a combination of laboratory and field experiments, quantitative models, and computational analysis of big datasets to address basic and applied questions about population dynamics and persistence.</description>
+      <guid>https://kramera3.github.io/project/allee-effects/</guid>
+      <description>Low density populations can be subject to Allee effects, also known as positive density dependence, which result in reduced population growth rate and increased risk of extinction in small populations. These dynamics are crucial to the success of invasive species, management of harvested populations and conservation of threatened and endangered species. My research focuses on understanding the mechanisms and consequences of positive density dependence, which is important in aquatic species from sea urchins to salmon to copepods.</description>
     </item>
     
   </channel>

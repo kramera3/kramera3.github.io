@@ -13,6 +13,46 @@
     
     
     <item>
+      <title>Deep learning and ecological time series</title>
+      <link>https://kramera3.github.io/post/eipub2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/eipub2021/</guid>
+      <description>We provide an accessible framework for applying deep learning methods for classifying time series to ecological questions. Using mcfly and TensorFlow, we demonstrate the value of these approaches for species distribution models, phenological predictions, and species identification from wingbeat spectra.
+url_pdf = &amp;ldquo;https://www.sciencedirect.com/science/article/pii/S1574954121000431&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Former undergraduate research assistant accepted to UCF</title>
+      <link>https://kramera3.github.io/post/weichen/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/weichen/</guid>
+      <description>Extending congratulations and our best wishes to Wei Chen for accepting a Masters research position at UCF. Wei will begin Fall 2021 and work in the Marine Ecology and Conservation Lab with Dr. Geoffrey Cook.
+In the Kramer lab, Wei assisted with zooplankton field sampling and sample processing. He also completed an independent research project on the impact of land use on the distribution of freshwater zooplankton in the Tampa Bay area.</description>
+    </item>
+    
+    <item>
+      <title>Editor&#39;s choice article in FEMS Microbiology Letters</title>
+      <link>https://kramera3.github.io/post/fmlpub2020/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/fmlpub2020/</guid>
+      <description>This article was the result of a class-based research project looking associations between carboxysome and transporter genes in multiple taxa of bacteria.
+url_pdf = &amp;ldquo;https://academic.oup.com/femsle/article/367/13/fnaa106/5863185&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Invacost R package available</title>
+      <link>https://kramera3.github.io/post/invacostpack2020/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/invacostpack2020/</guid>
+      <description>This R package provides access to the Invacost database and several methods for using and analyzing the data. This includes standardizing costs and estimating trends over time. The database is the most complete source for information on economic costs of invasive species published in peer-reviewed and grey literature, across several languages.
+url_pdf = &amp;ldquo;https://cran.r-project.org/web/packages/invacost/index.html&amp;quot;</description>
+    </item>
+    
+    <item>
       <title>Publication in Ecology and Evolution</title>
       <link>https://kramera3.github.io/post/eepub2019/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 -0400</pubDate>

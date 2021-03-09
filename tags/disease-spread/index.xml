@@ -18,7 +18,11 @@
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://kramera3.github.io/project/disease-spread/</guid>
-      <description>Part of my computational research examines methods for modeling spread on networks. This work focuses on the past and future spread of white-nose syndrome, a devastating disease of bats, in North America. By modeling the epidemic on a network, we have shown that the risk of spread between counties depends on a combination of distance, cave density and climate (Maher et al. 2012). These results have contributed to management decisions for affected species, and generated valuable insights about how the spatial spread of Ebola virus in West Africa can be predicted by evaluating alternative epidemic paths.</description>
+      <description>Part of my computational research examines methods for modeling spread on networks. This work applies to several pathogens, including white-nose syndrome in bats, Ebola in central and west Africa, and SARS-Cov2. By modeling the epidemics on a network, we can better capture the pattern of spread, identify key factors influencing that pattern, and produce effective forecasts. My current work addresses two important problems: simplifying the complex networks that often result from these models and coupling processes at the local scale to macro-scale spread on the network.</description>
+    </item>
+    
+  </channel>
+</rss>Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking motivated graduate students (Ph.D. or M.S.) to study the dynamics of extinction, species invasions, and/or species coexistence. The lab uses a combination of laboratory and field experiments, quantitative models, and computational analysis of big datasets to address basic and applied questions about population dynamics and persistence.</description>
     </item>
     
   </channel>
