@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kramera3.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Global economic costs of aquatic invasive alien species</title>
+      <link>https://kramera3.github.io/publication/stoten2021/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/publication/stoten2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep learning classification of temporal data in ecology</title>
@@ -297,15 +306,6 @@
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
       
       <guid>https://kramera3.github.io/publication/bb2004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global economic costs of aquatic invasive alien species</title>
-      <link>https://kramera3.github.io/publication/stoten2021/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kramera3.github.io/publication/stoten2021/</guid>
       <description></description>
     </item>
     
