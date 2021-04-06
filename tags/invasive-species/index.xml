@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://kramera3.github.io/tags/invasive-species/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Global economic costs of aquatic invasive alien species</title>
+      <link>https://kramera3.github.io/post/stotenpub2021/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/stotenpub2021/</guid>
+      <description>We use the Invacost database to aggregate reported economic costs of aquatic invasive species. Aquatic invasions have cost the global economy more than $345 billion dollars, with most of those costs due to invertebrates. Evidence suggests these costs are severely underestimated.
+url_pdf = &amp;ldquo;https://www.sciencedirect.com/science/article/pii/S0048969721003041&amp;quot;</description>
+    </item>
     
     <item>
       <title>Deep learning and ecological time series</title>
