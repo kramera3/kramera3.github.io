@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
-    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://kramera3.github.io/tags/university-of-south-florida/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New paper by lab member Austin Smith</title>
+      <link>https://kramera3.github.io/post/austinpub/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/austinpub/</guid>
+      <description>Check out work on Chukar partridge distribution from his Master&amp;rsquo;s thesis, published in PeerJ. https://peerj.com/articles/11280/</description>
+    </item>
     
     <item>
       <title>Alex Mercier named a 2021 Goldwater Scholar</title>
