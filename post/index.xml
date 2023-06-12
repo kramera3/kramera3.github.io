@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/post/</link>
+    <description>Recent content in Posts on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New paper by lab member Austin Smith</title>
+      <link>https://kramera3.github.io/post/austinpub/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/austinpub/</guid>
+      <description>Check out work on Chukar partridge distribution from his Master&amp;rsquo;s thesis, published in PeerJ. https://peerj.com/articles/11280/</description>
+    </item>
+    
+    <item>
+      <title>Global economic costs of aquatic invasive alien species</title>
+      <link>https://kramera3.github.io/post/stotenpub2021/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/stotenpub2021/</guid>
+      <description>We use the Invacost database to aggregate reported economic costs of aquatic invasive species. Aquatic invasions have cost the global economy more than $345 billion dollars, with most of those costs due to invertebrates. Evidence suggests these costs are severely underestimated.
+url_pdf = &amp;ldquo;https://www.sciencedirect.com/science/article/pii/S0048969721003041&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Alex Mercier named a 2021 Goldwater Scholar</title>
+      <link>https://kramera3.github.io/post/alexscholarship/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/alexscholarship/</guid>
+      <description>Congratulations to lab member and USF Honors College student Alex Mercier on receiving this prestigious scholarship. Alex has been working on projects studying the spread of epidemics on networks. Thanks to Dr. Basu in the USF Office on National Scholarships for making this award a possibility.</description>
+    </item>
+    
+    <item>
+      <title>Deep learning and ecological time series</title>
+      <link>https://kramera3.github.io/post/eipub2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/eipub2021/</guid>
+      <description>We provide an accessible framework for applying deep learning methods for classifying time series to ecological questions. Using mcfly and TensorFlow, we demonstrate the value of these approaches for species distribution models, phenological predictions, and species identification from wingbeat spectra.
+url_pdf = &amp;ldquo;https://www.sciencedirect.com/science/article/pii/S1574954121000431&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Former undergraduate research assistant accepted to UCF</title>
+      <link>https://kramera3.github.io/post/weichen/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/weichen/</guid>
+      <description>Extending congratulations and our best wishes to Wei Chen for accepting a Masters research position at UCF. Wei will begin Fall 2021 and work in the Marine Ecology and Conservation Lab with Dr. Geoffrey Cook.
+In the Kramer lab, Wei assisted with zooplankton field sampling and sample processing. He also completed an independent research project on the impact of land use on the distribution of freshwater zooplankton in the Tampa Bay area.</description>
+    </item>
+    
+    <item>
+      <title>Editor&#39;s choice article in FEMS Microbiology Letters</title>
+      <link>https://kramera3.github.io/post/fmlpub2020/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/fmlpub2020/</guid>
+      <description>This article was the result of a class-based research project looking associations between carboxysome and transporter genes in multiple taxa of bacteria.
+url_pdf = &amp;ldquo;https://academic.oup.com/femsle/article/367/13/fnaa106/5863185&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Invacost R package available</title>
+      <link>https://kramera3.github.io/post/invacostpack2020/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/invacostpack2020/</guid>
+      <description>This R package provides access to the Invacost database and several methods for using and analyzing the data. This includes standardizing costs and estimating trends over time. The database is the most complete source for information on economic costs of invasive species published in peer-reviewed and grey literature, across several languages.
+url_pdf = &amp;ldquo;https://cran.r-project.org/web/packages/invacost/index.html&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Publication in Ecology and Evolution</title>
+      <link>https://kramera3.github.io/post/eepub2019/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/eepub2019/</guid>
+      <description>A recent article in Ecology and Evolution describes a multi-scale model of disease and population dynamics in little brown bats.
+url_pdf = &amp;ldquo;https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.5405&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to our New Undergraduate Student</title>
+      <link>https://kramera3.github.io/post/new-members-9.5.18/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/new-members-9.5.18/</guid>
+      <description>Alexander is dual majoring in mathematics and microbiology, with a minor in Russian. In general, he is interested in disease ecology and how it relates to epidemiology. In the lab, Alexander will begin assisting our Masters student, Travis Flock, in conducting a meta-analysis on trait-mediated interactions.
+We are happy to have Alexander join our team and excited to see how his interests will contribute to our lab!</description>
+    </item>
+    
+    <item>
+      <title>Graduate student opening (Ph.D./M.S.) - Population and Community Ecology</title>
+      <link>https://kramera3.github.io/post/recruiting2018/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/recruiting2018/</guid>
+      <description>The Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking motivated graduate students (Ph.D. or M.S.) to study the dynamics of extinction, species invasions, and/or species coexistence. The lab uses a combination of laboratory and field experiments, quantitative models, and computational analysis of big datasets to address basic and applied questions about population dynamics and persistence. Potential study systems range from zooplankton to microbes to emerging wildlife diseases.</description>
+    </item>
+    
+    <item>
+      <title>Graduate student opening (Ph.D./M.S.) - Spatial ecology of invasive species</title>
+      <link>https://kramera3.github.io/post/recruiting2nd2018/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/recruiting2nd2018/</guid>
+      <description>The Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking a graduate student to study the spatial dynamics of invasive species using computational approaches, including machine learning and species distribution models. Research in the lab includes the population ecology of invasion, extinction and species coexistence. This project will build on previous work on forecasting potential invaders and patterns of spatial spread. Applicants interested in species distribution models, spatial dynamics, or aquatic invasive species are particularly encouraged to apply.</description>
+    </item>
+    
+    <item>
+      <title>Welcoming our New Lab Members</title>
+      <link>https://kramera3.github.io/post/newmembers/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/newmembers/</guid>
+      <description>We are pleased to welcome to our team graduate students, Fargam Neinavaie and Travis Flock, and Lindsey Mixer as our lab technician/manager.
+Fargam is working on her Ph.D to develop a project on forecasting invasive species.
+Travis is working on his Masters using meta-analysis to examine the costs of trait-mediated interactions.
+Lindsey is helping to set up our new lab at the University of South Florida and will be managing day to day tasks.</description>
+    </item>
+    
+    <item>
+      <title>Zooplankton Diversity Project website</title>
+      <link>https://kramera3.github.io/post/zooplankton-biodiversity-website/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/zooplankton-biodiversity-website/</guid>
+      <description>I have contributed substantially to the development of this website (http://zooplankton.ecology.uga.edu) from the Drake Laboratory of Population Dynamics at the University of Georgia that provides interested researchers and educators with access to our publicly available dataset. The variety and abundance of data is communicated via interactive visualizations custom developed in Javascript. It includes 17,596 lines of open data on 485,047 zooplankton specimens representing 133 taxa collected from Carolina Bays of the Savannah River Site.</description>
+    </item>
+    
+    <item>
+      <title>Allee effects Special Feature at Journal of Animal Ecology</title>
+      <link>https://kramera3.github.io/post/allee-effects-special-feature/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/allee-effects-special-feature/</guid>
+      <description>See the editorial (Kramer, Berec and Drake 2018, http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12777/fullScience) and the full issue (http://besjournals.onlinelibrary.wiley.com/hub/issue/10.1111/jane.2018.87.issue-1/)</description>
+    </item>
+    
+    <item>
+      <title>New article featured at Journal of Animal Ecology</title>
+      <link>https://kramera3.github.io/post/allee-effects-evolution-in-focus/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/allee-effects-evolution-in-focus/</guid>
+      <description>Journal of Animal Ecology has published a commentary (Kuparinen 2018 http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12774/full), on our article, Density-dependent selection on mate search and evolution of Allee effects (Berec, Kramer and Drake 2018, http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12662/full).</description>
+    </item>
+    
+    <item>
+      <title>Recruiting Master&#39;s student in population ecology of invasive species</title>
+      <link>https://kramera3.github.io/post/recruitingmasters2017/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/recruitingmasters2017/</guid>
+      <description>MSc opportunity - Population ecology of invasive species The Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking a graduate student to study the spatial dynamics of invasive species using computational approaches, beginning in August 2018. Research in the lab includes the population ecology of invasion, extinction and species coexistence. This project will build on previous work on forecasting potential invaders and patterns of spatial spread.</description>
+    </item>
+    
+    <item>
+      <title>Recruiting students in population and community ecology</title>
+      <link>https://kramera3.github.io/post/recruiting2017/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/recruiting2017/</guid>
+      <description>Graduate student openings (Ph.D./M.S.) in Population and Community Ecology The Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking motivated graduate students (Ph.D. or M.S.) to study the dynamics of extinction, species invasions, and/or species coexistence. The lab uses a combination of laboratory and field experiments, quantitative models, and computational analysis of big datasets to address basic and applied questions about population dynamics and persistence.</description>
+    </item>
+    
+    <item>
+      <title>Moving to the University of South Florida</title>
+      <link>https://kramera3.github.io/post/move-to-usf/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/move-to-usf/</guid>
+      <description>I am starting a quantitative and aquatic ecology laboratory at the University of South Florida. I will be recruiting staff and graduate students, look for announcements here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Former on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/tags/former/</link>
+    <description>Recent content in Former on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/tags/former/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Travis Flock</title>
+      <link>https://kramera3.github.io/project/travis/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/travis/</guid>
+      <description>Travis graduated with his Masters degree in June 2019. The title of his thesis is Density-Mediated Interactions are Stronger but More Variable Than Trait-Mediated Interactions Within Predator-Prey Systems. After graduation, Travis was hired by the Indiana Department of Environmental Management as an environmental manager in the Office of Air Quality.</description>
+    </item>
+    
+  </channel>
+</rss>

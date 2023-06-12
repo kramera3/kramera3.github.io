@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/project/</link>
+    <description>Recent content in Projects on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eva Muir</title>
+      <link>https://kramera3.github.io/project/eva/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/eva/</guid>
+      <description>Eva joined the lab in August 2019. Eva’s background is in animal behavior and wildlife conservation, where she has previously worked on ecological and behavioral research projects in Russia, Madagascar, China, Slovakia, South Africa and Costa Rica. Her research interests are very broad, but she is mostly interested in the population ecology of small or threatened populations. In particular, she is fascinated by populations which exhibit positive density dependence and the evolutionary biology of these organisms.</description>
+    </item>
+    
+    <item>
+      <title>Grace Henderson</title>
+      <link>https://kramera3.github.io/project/grace/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/grace/</guid>
+      <description>Grace joined the lab in August 2019. Grace completed her BS (conservation biology, 2018) at Central Michigan University. During that time, she spent two years working for a native freshwater mussel lab. Her current research involves applying machine learning algorithms to species distribution modeling of the invasive Dreissenid mussels in the Laurentian Great Lakes.</description>
+    </item>
+    
+    <item>
+      <title>Shea Volkel</title>
+      <link>https://kramera3.github.io/project/shea/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/shea/</guid>
+      <description>Shea joined the lab in August 2019. Shea completed her undergraduate degree in marine biology at the University of North Carolina at Wilmington and her Masters degree in fisheries at Michigan State University. She is interested in fisheries research in large aquatic systems related to invasive species, species interactions, population dynamics, and spatial ecology.</description>
+    </item>
+    
+    <item>
+      <title>Austin Smith</title>
+      <link>https://kramera3.github.io/project/austin/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/austin/</guid>
+      <description>Austin Joined the lab in November 2018
+Austin completed both his B.A. (mathematics, 2013) and M.S. (interdisciplinary ecology, 2018) at the University of Florida. His research interests include implementing mathematical/statistical techniques to ecological data in order to understand species invasions, niche structure/ habitat suitability, and population dynamics. Austin&amp;rsquo;s previous research efforts involved model optimization techniques, utilizing machine learning algorithms for defining habitat quality of introduced game birds, and analyzing the effects of propagule size on release attempts.</description>
+    </item>
+    
+    <item>
+      <title>Alexander Mercier</title>
+      <link>https://kramera3.github.io/project/alex/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/alex/</guid>
+      <description>Alexander joined the lab in August 2018.
+Alexander Mercier is an undergraduate student at University of South Florida dual majoring in pure mathematics and microbiology, with a minor in Russian. His interests include disease ecology and its relation to epidemiology.</description>
+    </item>
+    
+    <item>
+      <title>Lindsey Mixer</title>
+      <link>https://kramera3.github.io/project/lindsey/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/lindsey/</guid>
+      <description>Lindsey joined the lab in June 2018.
+Lindsey is from Berkeley, California and completed her undergraduate degree in biology at Loyola University New Orleans. She joined Dr. Kramer’s quantitative ecology lab as the lab technician/manager. She began her Masters in August 2019 in the Kramer lab where she does research on native vs. invasive species dynamics within freshwater zooplankton communities. Research wise, she is interested in population ecology and dynamics, aquatic ecology, invertebrates, and coding for data analysis.</description>
+    </item>
+    
+    <item>
+      <title>Travis Flock</title>
+      <link>https://kramera3.github.io/project/travis/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/travis/</guid>
+      <description>Travis graduated with his Masters degree in June 2019. The title of his thesis is Density-Mediated Interactions are Stronger but More Variable Than Trait-Mediated Interactions Within Predator-Prey Systems. After graduation, Travis was hired by the Indiana Department of Environmental Management as an environmental manager in the Office of Air Quality.</description>
+    </item>
+    
+    <item>
+      <title>Fargam Neinavaie</title>
+      <link>https://kramera3.github.io/project/neinavaie/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/neinavaie/</guid>
+      <description>Fargam joined the lab in May 2018. She is developing a project on forecasting invasive species.</description>
+    </item>
+    
+    <item>
+      <title>Allee effects</title>
+      <link>https://kramera3.github.io/project/allee-effects/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/allee-effects/</guid>
+      <description>Low density populations can be subject to Allee effects, also known as positive density dependence, which result in reduced population growth rate and increased risk of extinction in small populations. These dynamics are crucial to the success of invasive species, management of harvested populations and conservation of threatened and endangered species. My research focuses on understanding the mechanisms and consequences of positive density dependence, which is important in aquatic species from sea urchins to salmon to copepods.</description>
+    </item>
+    
+    <item>
+      <title>Invasive species ecology</title>
+      <link>https://kramera3.github.io/project/invasive-species/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/invasive-species/</guid>
+      <description>A current focus of my research is forecasting the potential distributions of invasive species, including dreissenid mussels and lionfish. I am using a combination of parametric and non-parametric models, including application of novel machine learning approaches. In addition to commonly considered climatic predictors I am working on applications of deep learning that use time series of climate data directly. I am also currently working with the Invacost project to better understand the economic costs of non-native species.</description>
+    </item>
+    
+    <item>
+      <title>Macroscale spread of disease</title>
+      <link>https://kramera3.github.io/project/disease-spread/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/disease-spread/</guid>
+      <description>Part of my computational research examines methods for modeling spread on networks. This work applies to several pathogens, including white-nose syndrome in bats, Ebola in central and west Africa, and SARS-Cov2. By modeling the epidemics on a network, we can better capture the pattern of spread, identify key factors influencing that pattern, and produce effective forecasts. My current work addresses two important problems: simplifying the complex networks that often result from these models and coupling processes at the local scale to macro-scale spread on the network.</description>
+    </item>
+    
+    <item>
+      <title>Zooplankton Coexistence</title>
+      <link>https://kramera3.github.io/project/zooplankton-communities/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/zooplankton-communities/</guid>
+      <description>There is much room for improving understanding of the contribution of interspecific interactions, such as competition and predation, to extinction risk. I am looking at the interactions of local native and non-native cladocerans, as well as zooplankton community recovery following removal of non-native fish in Sierra Nevada lakes. I am also working to explain why temporary wetlands at the Savannah River Ecology Laboratory are able to support a hyper-diverse zooplankton community.</description>
+    </item>
+    
+  </channel>
+</rss>

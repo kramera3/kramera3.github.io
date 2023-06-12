@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zooplankton on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/tags/zooplankton/</link>
+    <description>Recent content in Zooplankton on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/tags/zooplankton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recruiting students in population and community ecology</title>
+      <link>https://kramera3.github.io/post/recruiting2017/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/recruiting2017/</guid>
+      <description>Graduate student openings (Ph.D./M.S.) in Population and Community Ecology The Kramer laboratory in the Department of Integrative Biology at the University of South Florida is seeking motivated graduate students (Ph.D. or M.S.) to study the dynamics of extinction, species invasions, and/or species coexistence. The lab uses a combination of laboratory and field experiments, quantitative models, and computational analysis of big datasets to address basic and applied questions about population dynamics and persistence.</description>
+    </item>
+    
+  </channel>
+</rss>

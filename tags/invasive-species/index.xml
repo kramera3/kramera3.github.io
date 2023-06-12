@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invasive-species on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/tags/invasive-species/</link>
+    <description>Recent content in Invasive-species on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/tags/invasive-species/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New paper by lab member Austin Smith</title>
+      <link>https://kramera3.github.io/post/austinpub/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/austinpub/</guid>
+      <description>Check out work on Chukar partridge distribution from his Master&amp;rsquo;s thesis, published in PeerJ. https://peerj.com/articles/11280/</description>
+    </item>
+    
+    <item>
+      <title>Global economic costs of aquatic invasive alien species</title>
+      <link>https://kramera3.github.io/post/stotenpub2021/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/post/stotenpub2021/</guid>
+      <description>We use the Invacost database to aggregate reported economic costs of aquatic invasive species. Aquatic invasions have cost the global economy more than $345 billion dollars, with most of those costs due to invertebrates. Evidence suggests these costs are severely underestimated.
+url_pdf = &amp;ldquo;https://www.sciencedirect.com/science/article/pii/S0048969721003041&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Deep learning and ecological time series</title>
+      <link>https://kramera3.github.io/post/eipub2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/eipub2021/</guid>
+      <description>We provide an accessible framework for applying deep learning methods for classifying time series to ecological questions. Using mcfly and TensorFlow, we demonstrate the value of these approaches for species distribution models, phenological predictions, and species identification from wingbeat spectra.
+url_pdf = &amp;ldquo;https://www.sciencedirect.com/science/article/pii/S1574954121000431&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Invacost R package available</title>
+      <link>https://kramera3.github.io/post/invacostpack2020/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://kramera3.github.io/post/invacostpack2020/</guid>
+      <description>This R package provides access to the Invacost database and several methods for using and analyzing the data. This includes standardizing costs and estimating trends over time. The database is the most complete source for information on economic costs of invasive species published in peer-reviewed and grey literature, across several languages.
+url_pdf = &amp;ldquo;https://cran.r-project.org/web/packages/invacost/index.html&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Invasive species ecology</title>
+      <link>https://kramera3.github.io/project/invasive-species/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kramera3.github.io/project/invasive-species/</guid>
+      <description>A current focus of my research is forecasting the potential distributions of invasive species, including dreissenid mussels and lionfish. I am using a combination of parametric and non-parametric models, including application of novel machine learning approaches. In addition to commonly considered climatic predictors I am working on applications of deep learning that use time series of climate data directly. I am also currently working with the Invacost project to better understand the economic costs of non-native species.</description>
+    </item>
+    
+  </channel>
+</rss>

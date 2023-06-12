@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Kramer Ecology Lab</title>
+    <link>https://kramera3.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Kramer Ecology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew M Kramer</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kramera3.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Environmental and biotic interactions have differential effects on species presence and abundance in a diverse zooplankton community.</title>
+      <link>https://kramera3.github.io/talk/esa2020/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/talk/esa2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating environmental and biotic niches of aquatic organisms.</title>
+      <link>https://kramera3.github.io/talk/usf2019/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://kramera3.github.io/talk/usf2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
